@@ -6,7 +6,7 @@ A fully responsive business website for SHM Group, a multi-technical and enginee
 https://bakar8440.github.io/SHM_Group_project/
 
 ## 📸 Preview
-![Website Screenshot]
+
 * ![image](https://github.com/user-attachments/assets/e9fbce98-2426-42a1-a8b8-e7cdda0015f2)
 * ![image](https://github.com/user-attachments/assets/0f9a0919-2751-4c85-b48c-be1b37f22ea3)
 
