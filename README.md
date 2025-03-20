@@ -3,7 +3,8 @@
 A fully responsive business website for SHM Group, a multi-technical and engineering services company based in Dubai. The website features a modern design with smooth animations, a responsive navbar, an interactive "About Us" section with Owl Carousel, and optimized UI elements.
 
 ## 🌐 Live Demo
-🔗 [View Live Website]([https://your-live-link-here.com](https://bakar8440.github.io/SHM_Group_project/))  
+🔗 [View Live Website]())  
+https://your-live-link-here.com](https://bakar8440.github.io/SHM_Group_project/
 
 ## 📸 Preview
 ![Website Screenshot]
